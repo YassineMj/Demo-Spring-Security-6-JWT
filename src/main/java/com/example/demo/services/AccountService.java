@@ -18,13 +18,13 @@ import org.springframework.stereotype.Service;
 
 import com.example.demo.DTOs.RoleDto;
 import com.example.demo.DTOs.UserDto;
-import com.example.demo.Models.AuthUser;
-import com.example.demo.Responses.UserResponse;
 import com.example.demo.entities.RoleEntity;
 import com.example.demo.entities.UserEntity;
+import com.example.demo.models.AuthUser;
 import com.example.demo.repositories.RoleRepository;
 import com.example.demo.repositories.UserRepository;
 import com.example.demo.requests.UserRequest;
+import com.example.demo.responses.UserResponse;
 import com.fasterxml.jackson.databind.BeanProperty;
 
 

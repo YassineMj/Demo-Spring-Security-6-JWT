@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.DTOs.RoleDto;
 import com.example.demo.DTOs.UserDto;
-import com.example.demo.Responses.UserResponse;
 import com.example.demo.requests.RoleRequest;
 import com.example.demo.requests.RolesUserRequest;
 import com.example.demo.requests.UserRequest;
+import com.example.demo.responses.UserResponse;
 import com.example.demo.services.AccountService;
 
 import jakarta.servlet.http.HttpServletRequest;

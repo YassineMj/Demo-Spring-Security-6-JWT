@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.example.demo.DTOs.RoleDto;
 import com.example.demo.DTOs.UserDto;
-import com.example.demo.Responses.UserResponse;
+import com.example.demo.responses.UserResponse;
 
 public interface AccountServiceImpl {
 	

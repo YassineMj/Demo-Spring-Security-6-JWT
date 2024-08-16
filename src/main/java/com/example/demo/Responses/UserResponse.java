@@ -1,4 +1,4 @@
-package com.example.demo.Responses;
+package com.example.demo.responses;
 
 import java.util.List;
 
